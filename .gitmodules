@@ -1,3 +1,6 @@
 [submodule "FE_AppCarPark"]
 	path = FE_AppCarPark
 	url = https://github.com/anhtuan05/AppCarPark
+[submodule "BE_AppCarPark"]
+	path = BE_AppCarPark
+	url = https://github.com/anhtuan05/BE_AppCarPark
